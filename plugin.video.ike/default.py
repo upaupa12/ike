@@ -1628,7 +1628,7 @@ def oo0o ( ) :
  III1I11i1iIi = i1I1Ii1iI1ii . getSetting ( 'raw' )
  if i1I1Ii1iI1ii . getSetting ( 'raw' ) :
   o0oOo0Ooo0O ( "PastebinLinks" )
-  o0 ( o0IiiiI111I + base64 . b32decode ( III1I11i1iIi + 'R0YUM=' ) , '' )
+  o0 ( o0IiiiI111I + base64 . b32decode ( III1I11i1iIi + 'UORQUG===' ) , '' )
   return
  else :
   iI1Ii11iIiI1 = xbmcgui . Dialog ( )
