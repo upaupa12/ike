@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="repository.IKE">
 		<info compressed="false">https://raw.githubusercontent.com/upaupa12/ike/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/upaupa12/ike/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/ike/upaupa/master/repo/</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/upaupa12/ike/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>[COLOR blue][B]IkeVip.Repo[/B][/COLOR]</summary>
